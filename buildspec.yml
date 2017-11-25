@@ -5,6 +5,6 @@ phases:
     commands:
       - echo "Nothing to do yet"
 
-artifcats:
+artifacts:
   - index.html
   - assets/*
