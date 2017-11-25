@@ -3,7 +3,7 @@ version: 0.1
 phases:
   build:
     commands:
-      - Nothing to do yet
+      - echo "Nothing to do yet"
 
 artifcats:
   - index.html
