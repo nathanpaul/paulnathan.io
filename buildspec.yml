@@ -8,4 +8,10 @@ phases:
 artifacts:
   files:
     - index.html
-    - assets/*
+    - assets/css/*
+    - assets/font/*
+    - assets/fonts/*
+    - assets/icons/*
+    - assets/images/*
+    - assets/js/*
+    - assets/less/*
