@@ -1,0 +1,34 @@
+{
+  "name": "paulnathan.io",
+  "version": "1.0.0",
+  "description": "This is a cool little project to get familiar with building a simple app that will leverage AWS's Lambda, CodePipeline, S3, and Route 53 to create a website with ReactJS.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack",
+    "webpack-watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanpaul/paulnathan.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanpaul/paulnathan.io/issues"
+  },
+  "homepage": "https://github.com/nathanpaul/paulnathan.io#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.9.1"
+  }
+}
